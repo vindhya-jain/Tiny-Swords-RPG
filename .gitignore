@@ -1,0 +1,40 @@
+# Ignore these Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+Logs/
+
+# User-specific settings
+UserSettings/
+.vscode/
+.idea/
+
+# Auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Crashlytics
+crashlytics-build.properties
+
+# Exclude generated Rider/JetBrains files
+.idea/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!*.meta
+
+# Uncomment to ignore Asset Store tools
+# Assets/AssetStoreTools*
